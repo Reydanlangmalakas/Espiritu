@@ -1,0 +1,14 @@
+<?php
+
+$x = "8";
+
+echo "Value is now $x \n";
+echo "Add 2. Value is now ", $x+=2, "\n";
+echo "Subtract 4. Value is now ", $x-=4, "\n";
+echo "Multiply by 5. Value is now ", $x*=5, "\n";
+echo "Divide by 3. Value is now ", $x/=3, "\n";
+echo "Increment value by one. Value is now ", ++$x, "\n";
+echo "Increment value by one. Value is now ", --$x;
+
+
+?>
