@@ -1,0 +1,16 @@
+<?php
+
+
+echo "Twinkle, Twinkle little star";
+
+$twnk = "Twinkle";
+$str = "Star";
+
+echo "\n $twnk $twnk little $str";
+
+$twnk = "Sheesh";
+$str = "bruuuh";
+
+echo "\n$twnk $str";
+
+?>
