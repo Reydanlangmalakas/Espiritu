@@ -1,0 +1,18 @@
+<?php   
+ 
+$str='Harry'; 
+$int=28;   
+ 
+var_dump($str); 
+echo "\n";   
+ 
+print_r($str); 
+echo "\n";   
+ 
+var_dump($int); 
+echo "\n";  
+  
+$name=NULL;   
+var_dump($str);
+
+?> 
